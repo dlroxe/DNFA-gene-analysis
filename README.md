@@ -83,6 +83,8 @@ the following (for Debian-based environments):
 * `sudo apt-get install r-base`
 * `sudo apt-get install r-recommended`
 * `sudo apt-get install samtools`
+* Manually download and install the [SRA toolkit](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software)
+
 
 ## Cloning this Package from Github
 
